@@ -1,5 +1,8 @@
-# DataMan
-Decentralized peer-to-peer dataset management package using IFPS and ethereum smart contracts. 
+<p align="center">
+  <img src="man.jpg"><br/>
+  <a href="https://travis-ci.org/Andrewnetwork/HeftyNumber"><img src="https://travis-ci.org/Andrewnetwork/HeftyNumber.svg?branch=master"></a>
+</p>
+DataMan is a decentralized peer-to-peer dataset management package using IFPS and ethereum smart contracts. 
 
 ## Overview and Philosophy
 If we are working on a project with multiple people that require a shared dataset, there are multiple solutions. The classic solution is to have a hosted database to which all parties can connect to. In an effort to always stay lean, a more appealing approach is to utilize the resources we have readily available, our personal computers, to share the data in a peer-to-peer network so we can cut out this hosted centralized resource which is often costly to maintain. 
